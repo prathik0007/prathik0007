@@ -17,6 +17,11 @@
 - 🌱 Learning **React, Django, Machine Learning & DSA**
 - 🤖 Interested in AI & Web Development
 - 🧩 Solving problems on LeetCode
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/prathik0007/prathik0007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 🌐 Connect
 
@@ -90,11 +95,5 @@ React + Django + Machine Learning (In Progress)
 - Machine Learning
 - DSA
 - Open Source
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/prathik0007/prathik0007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 # ⭐ Thanks for visiting!
