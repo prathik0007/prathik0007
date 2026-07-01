@@ -31,30 +31,38 @@ Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast
   <img src="https://github.com/prathik0007/prathik0007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
 ## 🌐 Connect
 
 - GitHub: https://github.com/prathik0007
 - LinkedIn: https://www.linkedin.com/in/prathik-b73793351
 - LeetCode: https://leetcode.com/u/Prathik07/
 - Email: prathikganiga202@gmail.com
+</p>
 
 # 💻 Tech Arsenal
 
 ### 🚀 Languages
-<p><img src="https://skillicons.dev/icons?i=python,java,c,javascript"/></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,javascript"/></p>
 
 ### 🎨 Frontend
-<p><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/></p>
 
 ### ⚙️ Backend
-<p><img src="https://skillicons.dev/icons?i=flask,django,nodejs"/></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=flask,django,nodejs"/></p>
 
 ### 🗄️ Database
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></p>
 
 ### 🛠️ Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
+
+<p align="center">
 # 🚀 Featured Projects
 
 ## 🌿 BOTANEO
@@ -65,6 +73,7 @@ Java Swing + MongoDB Atlas Quiz Management System.
 
 ## 🏠 Rental Listing Platform
 React + Django + Machine Learning (In Progress)
+</p>
 
 # 📊 GitHub Statistics
 
@@ -97,11 +106,13 @@ React + Django + Machine Learning (In Progress)
 <img src="https://leetcard.jacoblin.cool/Prathik07?theme=dark&font=Poppins&ext=contest"/>
 </p>
 
+<p align="center">
 # 🌱 Current Focus
 
 - Full Stack Development
 - Machine Learning
 - DSA
 - Open Source
+</p>
 
 # ⭐ Thanks for visiting!
