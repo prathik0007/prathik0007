@@ -1,110 +1,213 @@
-<h1 align="center">Hi 👋, I'm Prathik</h1>
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Prathik
+</h1>
 
-<h3 align="center">Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">
+Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Flask+%7C+Django;Machine+Learning+Enthusiast;Always+Learning+New+Things;Open+Source+Learner" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/prathik0007">
+<img src="https://komarev.com/ghpvc/?username=prathik0007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/prathik0007?tab=followers">
+<img src="https://img.shields.io/github/followers/prathik0007?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/prathik0007">
+<img src="https://img.shields.io/github/stars/prathik0007?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 MCA Student at **NMAM Institute of Technology**
+```python
+class Prathik():
 
-💻 Passionate about
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Web Applications
+    def __init__(self):
 
-🌱 Currently Learning
-- React.js
-- Django
-- Machine Learning
-- Data Structures & Algorithms
+        self.role = "Aspiring Full Stack Developer"
 
-🎯 Goal
-> Become a Software Engineer at a leading Product-Based Company.
+        self.education = "MCA @ NMAM Institute of Technology"
+
+        self.languages = ["Python","Java","C","JavaScript"]
+
+        self.frontend = ["React","HTML","CSS","Bootstrap"]
+
+        self.backend = ["Flask","Django"]
+
+        self.database = ["MongoDB","MySQL"]
+
+        self.learning = [
+            "React",
+            "Machine Learning",
+            "Django",
+            "Data Structures & Algorithms"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Full Stack Development",
+            "Web Applications",
+            "Machine Learning"
+        ]
+
+        self.goal = "Software Engineer"
+
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prathik-b73793351">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:prathikganiga202@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://leetcode.com/u/Prathik07/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
 </a>
+
+<a href="https://github.com/prathik0007">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Arsenal
 
-### Languages
+## 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
 </p>
 
-### Frontend
+---
+
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
 </p>
 
-### Backend
+---
+
+## ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
 </p>
 
-### Database
+---
+
+## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
-### Tools
+---
+
+## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌿 LeafLens
-AI-powered plant identification system using PlantNet API and LLM API.
+### 🌿 BOTANEO – AI Powered Plant Identification
 
-**Tech:** Flask • HTML • CSS • Python
+- Flask
+- HTML
+- CSS
+- PlantNet API
+- Multi-language Support
 
 ---
 
 ### 📝 Online Quiz Application
 
-Desktop-based Quiz Management System using Java Swing and MongoDB Atlas.
-
-**Tech:** Java • Swing • MongoDB
+- Java Swing
+- MongoDB Atlas
+- Leaderboard
+- Authentication
 
 ---
 
-### 🏠 Rental Listing Platform (Ongoing)
+### 🏠 Rental Listing Platform
 
-A Machine Learning-powered rental listing platform with price prediction and recommendations.
+- React
+- Django
+- Machine Learning
+- PostgreSQL
 
-**Tech:** React • Django • Machine Learning • PostgreSQL
+---
+
+# 🌱 Currently Learning
+
+- React.js
+
+- Machine Learning
+
+- Django
+
+- Data Structures & Algorithms
+
+- System Design
 
 ---
 
@@ -112,9 +215,9 @@ A Machine Learning-powered rental listing platform with price prediction and rec
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prathik0007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathik0007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -123,7 +226,9 @@ A Machine Learning-powered rental listing platform with price prediction and rec
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=prathik0007&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -131,7 +236,9 @@ A Machine Learning-powered rental listing platform with price prediction and rec
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathik0007&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -139,7 +246,23 @@ A Machine Learning-powered rental listing platform with price prediction and rec
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prathik0007&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Prathik07/">
+
+<img src="https://leetcard.jacoblin.cool/Prathik07?theme=dark&font=Poppins&ext=contest"/>
+
+</a>
+
 </p>
 
 ---
@@ -160,24 +283,66 @@ A Machine Learning-powered rental listing platform with price prediction and rec
 
 ✔ Full Stack Development
 
-✔ Open Source Contributions
+✔ Machine Learning
+
+✔ React.js
+
+✔ Django
+
+✔ Open Source
 
 ---
 
-# 📫 Reach Me
+# 🤝 Open To
 
-📧 YOUR_EMAIL@gmail.com
+- Open Source Contributions
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Full Stack Projects
 
-🌐 GitHub: https://github.com/YOUR_USERNAME
+- AI & ML Projects
+
+- Learning New Technologies
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 📫 Contact
+
+📧 Email
+
+prathikganiga202@gmail.com
+
+🔗 LinkedIn
+
+https://www.linkedin.com/in/prathik-b73793351
+
+💻 GitHub
+
+https://github.com/prathik0007
+
+🌐 Portfolio
+
+Coming Soon...
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below and this section will automatically show the animated snake.
+
+```markdown
+![Snake animation](https://github.com/prathik0007/prathik0007/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+<h2 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h2>
 
 <p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=120&section=footer"/>
+
 </p>
