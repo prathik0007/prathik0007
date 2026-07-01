@@ -18,6 +18,7 @@ Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast
 <a href="https://github.com/prathik0007"><img src="https://komarev.com/ghpvc/?username=prathik0007&label=Profile%20Views&style=for-the-badge"/></a>
 </p>
 
+<p align="center">
 ## 🚀 About Me
 
 - 🎓 MCA Student at **NMAM Institute of Technology**
@@ -25,6 +26,7 @@ Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast
 - 🌱 Learning **React, Django, Machine Learning & DSA**
 - 🤖 Interested in AI & Web Development
 - 🧩 Solving problems on LeetCode
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
