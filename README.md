@@ -44,3 +44,19 @@ const prathik = {
   
   funFact: "`Every bug is a misunderstanding waiting to be exposed.` 🐛"
 };
+</td>
+<!-- Right Column: Real-time Repository Language Breakdown Chart -->
+<td width="50%" valign="top">
+  <h3>📊 Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathik0007&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="100%" alt="Most Used Languages Chart" />
+</td>
+👾 My Contributions Getting Eaten Alive
+⚙️ Tech Arsenal
+🎨 Frontend
+🔧 Backend
+🗄️ Databases & Cloud
+💻 Languages
+🏆 GitHub Trophies
+📈 GitHub Stats & Contributions
+🌐 Let's Connect
+⚡ Crafted with curiosity • Powered by coffee • Deployed with love
