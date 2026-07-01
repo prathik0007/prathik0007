@@ -91,12 +91,10 @@ React + Django + Machine Learning (In Progress)
 - DSA
 - Open Source
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-After enabling the workflow below:
-
-```md
-![Snake animation](https://github.com/prathik0007/prathik0007/blob/output/github-contribution-grid-snake-dark.svg)
-```
+<p align="center">
+  <img src="https://github.com/prathik0007/prathik0007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # ⭐ Thanks for visiting!
