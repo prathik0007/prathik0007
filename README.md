@@ -20,65 +20,113 @@ Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast
 <a href="https://github.com/prathik0007"><img src="https://komarev.com/ghpvc/?username=prathik0007&label=Profile%20Views&style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 MCA Student at **NMAM Institute of Technology**
-- 💻 Aspiring Full Stack Developer
-- 🌱 Learning **React, Django, Machine Learning & DSA**
-- 🤖 Interested in AI & Web Development
-- 🧩 Solving problems on LeetCode
+<p align="center">
+
+🎓 MCA Student at <b>NMAM Institute of Technology</b><br><br>
+
+💻 Aspiring Full Stack Developer<br><br>
+
+🌱 Learning <b>React, Django, Machine Learning & DSA</b><br><br>
+
+🤖 Interested in AI & Web Development<br><br>
+
+🧩 Solving problems on LeetCode
+
 </p>
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/prathik0007/prathik0007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+<h2 align="center">🌐 Connect</h2>
 
 <p align="center">
-## 🌐 Connect
 
-- GitHub: https://github.com/prathik0007
-- LinkedIn: https://www.linkedin.com/in/prathik-b73793351
-- LeetCode: https://leetcode.com/u/Prathik07/
-- Email: prathikganiga202@gmail.com
+<a href="https://github.com/prathik0007">GitHub</a> •
+<a href="https://www.linkedin.com/in/prathik-b73793351">LinkedIn</a> •
+<a href="https://leetcode.com/u/Prathik07/">LeetCode</a> •
+<a href="mailto:prathikganiga202@gmail.com">Email</a>
+
 </p>
 
-# 💻 Tech Arsenal
+<h2 align="center">💻 Tech Arsenal</h2>
 
-### 🚀 Languages
-
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,javascript"/></p>
-
-### 🎨 Frontend
-
-<p align="center"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/></p>
-
-### ⚙️ Backend
-
-<p align="center"><img src="https://skillicons.dev/icons?i=flask,django,nodejs"/></p>
-
-### 🗄️ Database
-
-<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></p>
-
-### 🛠️ Tools
-
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
+<h3 align="center">🚀 Languages</h3>
 
 <p align="center">
-# 🚀 Featured Projects
-
-## 🌿 BOTANEO
-AI Powered Plant Identification using Flask + PlantNet API.
-
-## 📝 Online Quiz Application
-Java Swing + MongoDB Atlas Quiz Management System.
-
-## 🏠 Rental Listing Platform
-React + Django + Machine Learning (In Progress)
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+</p>
+
+<h3 align="center">🗄 Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+<h3 align="center">🛠 Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+
+<tr>
+<td>
+
+### 🌿 BOTANEO
+
+AI Powered Plant Identification
+
+**Tech**
+
+Flask • HTML • CSS • PlantNet API
+
+</td>
+
+<td>
+
+### 📝 Online Quiz
+
+Java Swing Quiz Application
+
+**Tech**
+
+Java • Swing • MongoDB Atlas
+
+</td>
+
+<td>
+
+### 🏠 Rental Listing
+
+Rental Listing Platform
+
+**Tech**
+
+React • Django • ML
+
+</td>
+
+</tr>
+
+</table>
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -110,14 +158,27 @@ React + Django + Machine Learning (In Progress)
 <img src="https://leetcard.jacoblin.cool/Prathik07?theme=dark&font=Poppins&ext=contest"/>
 </p>
 
+<h2 align="center">🌱 Current Focus</h2>
+
 <p align="center">
-# 🌱 Current Focus
 
-- Full Stack Development
-- Machine Learning
-- DSA
-- Open Source
+• Full Stack Development<br>
+
+• Machine Learning<br>
+
+• DSA<br>
+
+• Open Source
+
 </p>
+<h1 align="center">
 
-# ⭐ Thanks for visiting!
+⭐ Thanks for Visiting! ⭐
+
+</h1>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=120&section=footer"/>
+
 </p>
