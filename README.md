@@ -1,124 +1,183 @@
-# Hi 👋, I'm Prathik
+<h1 align="center">Hi 👋, I'm Prathik</h1>
 
-### 🚀 MCA Student | Aspiring Full Stack Developer | AI & Web Development Enthusiast
+<h3 align="center">Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast</h3>
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** at **NMAM Institute of Technology**. I enjoy building web applications, exploring AI-powered solutions, and continuously improving my programming and problem-solving skills.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 MCA Student at NMAM Institute of Technology
-- 🌱 Currently learning **React.js, Django, Machine Learning, and Data Structures & Algorithms**
-- 💻 Interested in Full Stack Web Development and AI
-- 🔍 Passionate about building practical real-world applications
-- 📚 Always learning new technologies
-- 🎯 Goal: Become a Software Engineer at a leading product company
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+
+🎓 MCA Student at **NMAM Institute of Technology**
+
+💻 Passionate about
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Web Applications
+
+🌱 Currently Learning
+- React.js
+- Django
+- Machine Learning
+- Data Structures & Algorithms
+
+🎯 Goal
+> Become a Software Engineer at a leading Product-Based Company.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-- C
-- Java
-- Python
-- JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript"/>
+</p>
 
 ### Frontend
 
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+</p>
 
 ### Backend
 
-- Flask
-- Django
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
+</p>
 
 ### Database
 
-- MongoDB
-- PostgreSQL
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🌿 LeafLens – AI Plant Identification
+### 🌿 LeafLens
+AI-powered plant identification system using PlantNet API and LLM API.
 
-An AI-powered web application that identifies plants using image recognition and provides plant information.
-
-**Tech Stack**
-
-- Flask
-- HTML
-- CSS
-- PlantNet API
-- LLM API
+**Tech:** Flask • HTML • CSS • Python
 
 ---
 
 ### 📝 Online Quiz Application
 
-Desktop quiz application with secure login, leaderboard, score tracking, and MongoDB integration.
+Desktop-based Quiz Management System using Java Swing and MongoDB Atlas.
 
-**Tech Stack**
-
-- Java
-- Java Swing
-- MongoDB Atlas
+**Tech:** Java • Swing • MongoDB
 
 ---
 
-### 🏠 Rental Listing Platform (In Progress)
+### 🏠 Rental Listing Platform (Ongoing)
 
-A web application for browsing rental properties with machine learning-based price prediction and recommendation features.
+A Machine Learning-powered rental listing platform with price prediction and recommendations.
 
-**Features**
-
-- Property Listings
-- Search & Filters
-- Price Prediction
-- Recommendation System
+**Tech:** React • Django • Machine Learning • PostgreSQL
 
 ---
 
-## 📈 Currently Working On
+# 📊 GitHub Statistics
 
-- Data Structures & Algorithms
-- Machine Learning
-- React Projects
-- Django Development
-- Placement Preparation
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📊 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 📈 Contribution Graph
 
-*"Code. Learn. Build. Improve. Repeat."*
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# ⚡ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 Current Focus
+
+✔ Data Structures & Algorithms
+
+✔ Full Stack Development
+
+✔ Open Source Contributions
+
+---
+
+# 📫 Reach Me
+
+📧 YOUR_EMAIL@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+🌐 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i>
+</p>
