@@ -1,5 +1,14 @@
+<h1 align="center">
+  Hi 👋, I'm Prathik
+</h1>
 
-# Hi 👋, I'm Prathik
+<h3 align="center">
+Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Flask+%7C+Django;Machine+Learning+Enthusiast;Always+Learning+New+Things"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;MCA+Student;AI+%26+Machine+Learning+Enthusiast;React+%7C+Flask+%7C+Django;Always+Learning+New+Things" />
@@ -7,7 +16,6 @@
 
 <p align="center">
 <a href="https://github.com/prathik0007"><img src="https://komarev.com/ghpvc/?username=prathik0007&label=Profile%20Views&style=for-the-badge"/></a>
-<a href="https://github.com/prathik0007?tab=followers"><img src="https://img.shields.io/github/followers/prathik0007?style=for-the-badge"/></a>
 </p>
 
 ## 🚀 About Me
