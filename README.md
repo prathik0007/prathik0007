@@ -1,3 +1,5 @@
+
+<p align="center">
 <h1 align="center">
   Hi 👋, I'm Prathik
 </h1>
@@ -118,3 +120,4 @@ React + Django + Machine Learning (In Progress)
 </p>
 
 # ⭐ Thanks for visiting!
+</p>
