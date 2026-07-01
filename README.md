@@ -1,62 +1,124 @@
-<div align="center">
+# Hi 👋, I'm Prathik
 
-# PRATHIK
-### Fullstack Developer | India 🇮🇳
+### 🚀 MCA Student | Aspiring Full Stack Developer | AI & Web Development Enthusiast
 
-<!-- Dynamic Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=MCA+Post-Graduate+Student;Aspiring+Full-Stack+Developer;50%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
-
-<br/>
-
-<!-- Action Badges / Top Stats Header Section -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT%20ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathik-b73793351)
-[![Email](https://img.shields.io/badge/Email-CONTACT%20ME-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathikganiga202@gmail.com)
-![Profile Views](https://komarev.com/normal-badge/?id=prathik0007&color=9c27b0&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+I'm currently pursuing my **Master of Computer Applications (MCA)** at **NMAM Institute of Technology**. I enjoy building web applications, exploring AI-powered solutions, and continuously improving my programming and problem-solving skills.
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- Left Column: Whoami Interactive JavaScript Block -->
-    <td width="50%" valign="top">
-      <h3>🧬 whoami</h3>
-      
-```javascript
-const prathik = {
-  name: "Prathik",
-  role: "Fullstack Developer 🚀",
-  location: "Karnataka, India 🇮🇳",
-  
-  shipping: [
-    "BOTANEO — AI Plant Classifier 🍃",
-    "SmartFinance AI Dashboard 📊",
-    "Interactive Quiz Portal 📝"
-  ],
-  
-  learning: ["Flutter & Dart", "Advanced Spring Boot", "DSA"],
-  
-  openTo: [
-    "Full-Time Software Engineering Roles 💼",
-    "Open-source collaborations 🤝"
-  ],
-  
-  funFact: "`Every bug is a misunderstanding waiting to be exposed.` 🐛"
-};
-</td>
-<!-- Right Column: Real-time Repository Language Breakdown Chart -->
-<td width="50%" valign="top">
-  <h3>📊 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathik0007&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="100%" alt="Most Used Languages Chart" />
-</td>
-👾 My Contributions Getting Eaten Alive
-⚙️ Tech Arsenal
-🎨 Frontend
-🔧 Backend
-🗄️ Databases & Cloud
-💻 Languages
-🏆 GitHub Trophies
-📈 GitHub Stats & Contributions
-🌐 Let's Connect
-⚡ Crafted with curiosity • Powered by coffee • Deployed with love
+## 👨‍💻 About Me
+
+- 🎓 MCA Student at NMAM Institute of Technology
+- 🌱 Currently learning **React.js, Django, Machine Learning, and Data Structures & Algorithms**
+- 💻 Interested in Full Stack Web Development and AI
+- 🔍 Passionate about building practical real-world applications
+- 📚 Always learning new technologies
+- 🎯 Goal: Become a Software Engineer at a leading product company
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- C
+- Java
+- Python
+- JavaScript
+
+### Frontend
+
+- HTML5
+- CSS3
+- Bootstrap
+- React.js
+
+### Backend
+
+- Flask
+- Django
+
+### Database
+
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Projects
+
+### 🌿 LeafLens – AI Plant Identification
+
+An AI-powered web application that identifies plants using image recognition and provides plant information.
+
+**Tech Stack**
+
+- Flask
+- HTML
+- CSS
+- PlantNet API
+- LLM API
+
+---
+
+### 📝 Online Quiz Application
+
+Desktop quiz application with secure login, leaderboard, score tracking, and MongoDB integration.
+
+**Tech Stack**
+
+- Java
+- Java Swing
+- MongoDB Atlas
+
+---
+
+### 🏠 Rental Listing Platform (In Progress)
+
+A web application for browsing rental properties with machine learning-based price prediction and recommendation features.
+
+**Features**
+
+- Property Listings
+- Search & Filters
+- Price Prediction
+- Recommendation System
+
+---
+
+## 📈 Currently Working On
+
+- Data Structures & Algorithms
+- Machine Learning
+- React Projects
+- Django Development
+- Placement Preparation
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Improve. Repeat."*
