@@ -120,7 +120,7 @@ Rental Listing Platform
 
 **Tech**
 
-React • Django • ML
+React • Flask • ML
 
 </td>
 
