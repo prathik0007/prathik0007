@@ -28,7 +28,7 @@ Aspiring Full Stack Developer | MCA Student | AI & Machine Learning Enthusiast
 
 💻 Aspiring Full Stack Developer<br><br>
 
-🌱 Learning <b>React, flutter, Spring Boot & DSA</b><br><br>
+🌱 Learning <b>React, flutter, Spring Boot,Next.js,express.js & DSA</b><br><br>
 
 🤖 Interested in AI & Web Development<br><br>
 
