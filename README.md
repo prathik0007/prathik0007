@@ -8,7 +8,7 @@ Aspiring Application Developer | MCA Student | Full Stack & AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="assets/hero-banner.svg" width="100%" alt="Hero banner"/>
+<img src="https://raw.githubusercontent.com/prathik0007/prathik0007/main/assets/hero-banner.svg" width="100%" alt="Hero banner"/>
 </p>
 
 <p align="center">
