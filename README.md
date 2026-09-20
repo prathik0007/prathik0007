@@ -8,6 +8,10 @@ Aspiring Application Developer | MCA Student | Full Stack & AI Enthusiast
 </h3>
 
 <p align="center">
+<img src="assets/hero-banner.svg" width="100%" alt="Hero banner"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Flask+%7C+Django;Machine+Learning+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
