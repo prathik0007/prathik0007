@@ -31,11 +31,11 @@ Aspiring Application Developer | MCA Student | Full Stack & AI Enthusiast
 
 💻 Aspiring Application Developer with hands-on experience building web, Android, and backend applications<br><br>
 
-🌱 Learning <b>React, Flutter, React Native, Next.js, Express.js, Spring Boot & DSA</b><br><br>
+🌱 Learning <b>React, Flutter, React Native, Next.js, Express.js, & DSA</b><br><br>
 
 🤖 Interested in AI & Web Development<br><br>
 
-🧩 Solving problems on LeetCode ♟️ Chess Team Player
+🧩 Solving problems on LeetCode
 
 </p>
 
