@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-Aspiring Application Developer | MCA Student | Full Stack & AI Enthusiast
+Aspiring Application Developer |  Full Stack & AI Enthusiast
 </h3>
 
 <p align="center">
@@ -26,8 +26,6 @@ Aspiring Application Developer | MCA Student | Full Stack & AI Enthusiast
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-
-🎓 MCA Student at <b>NMAM Institute of Technology</b><br><br>
 
 💻 Aspiring Application Developer with hands-on experience building web, Android, and backend applications<br><br>
 
