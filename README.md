@@ -235,11 +235,13 @@ Developed NovaMart Ecommerce with product browsing & management, and a Project M
 
 • Full Stack Development<br>
 
-• Machine Learning<br>
+• Web Development<br>
+
+• Mern Stack
 
 • DSA<br>
 
-• Open Source
+• App Development
 
 </p>
 
